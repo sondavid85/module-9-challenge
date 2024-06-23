@@ -3,7 +3,7 @@
   ## Description
   Generate professional readme via user input retrieved from the console
   ## Deployed Application URL
-  http://sondavid85.github.io/module-9-challenge
+  n/a
   ## Screenshot
   ![alt-text](./dist/screenshot.jpeg)
   ## Table of Contents
